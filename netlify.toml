@@ -1,8 +1,8 @@
 [[plugins]]
 package = "./should-fail-plugin.js"
 
-[[plugins]]
-package = "./should-fail-build.js"
+#[[plugins]]
+#package = "./should-fail-build.js"
 
-[[plugins]]
-package = "./should-not-run.js"
+#[[plugins]]
+#package = "./should-not-run.js"
